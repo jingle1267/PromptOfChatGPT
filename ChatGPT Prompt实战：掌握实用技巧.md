@@ -1,4 +1,4 @@
-# ChatGPT的Prompt入门
+# ChatGPT Prompt实战：掌握实用技巧
 
 ## 1 什么是Prompt，以及如何构建有效的Prompt
 
